@@ -1,9 +1,9 @@
 import { Text, View } from 'react-native';
 
-export default function Home() {
+export default function Regulamento() {
     return (
         <View className='bg-slate-500'>
-            <Text>Home</Text>
+            <Text>regulamento</Text>
         </View>
     );
 }
